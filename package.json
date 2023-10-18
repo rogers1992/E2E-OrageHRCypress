@@ -1,0 +1,23 @@
+{
+  "name": "E2E OrageHRCypress",
+  "version": "1.0.0",
+  "description": "E2E framework for OrageHR application",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework",
+    "cypress"
+    ],
+  "author": "RogerUlaque",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }
+}
+
